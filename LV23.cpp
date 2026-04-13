@@ -20,7 +20,7 @@ void a_operacije() {
 	queue<int> red;
 
 	for (int i = 0;i < n;i++) {
-		a = rand() % 101;
+		a = rand() % 1001;
 		red.push(a);
 	}
 
